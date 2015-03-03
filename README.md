@@ -7,9 +7,11 @@ Bedienungsanleitung:
 
 - Folgenden Code für einen Balken verwenden:
 
-- <code>&lt;div id="bar"&gt;&lt;div id="innerbar_number"&gt;&lt;/div&gt;&lt;/div&gt;</code>
+- <code>&lt;div id="bar"&gt;&lt;div id="innerbar_number" style="width:50%;"&gt;&lt;/div&gt;&lt;/div&gt;</code>
 
 - innerbar_number ersetzen durch z.b. innerbar_1 (Zahl 1-5)
+
+- Ändere den Wert von style="width:50%;" um den Wert der Anzeige zu ändern.
 
 How to use:
 
@@ -20,6 +22,8 @@ How to use:
 - <code>&lt;div id="bar"&gt;&lt;div id="innerbar_number"&gt;&lt;/div&gt;&lt;/div&gt;</code>
 
 - replace the innerbar_number with innerbar_1 (use numbers from 1-5) to get a color
+
+- Change the value of style="width:50%;" to change the display value of this bar
 
 Like this? Dir Gefällt das? 
 
