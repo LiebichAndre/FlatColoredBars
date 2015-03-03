@@ -1,0 +1,31 @@
+#bar {
+	margin-top:10px;
+	margin-bottom:20px;
+	background-color:#222222;
+	height:20px;
+}
+
+#innerbar1 {
+	background-color:#1abc9c;
+	height:20px;
+}
+
+#innerbar2 {
+	background-color:#2ecc71;
+	height:20px;
+}
+
+#innerbar3 {
+	background-color:#3498db;
+	height:20px;
+}
+
+#innerbar4 {
+	background-color:#8e44ad;
+	height:20px;
+}
+
+#innerbar5 {
+	background-color:#e74c3c;
+	height:20px;
+}
