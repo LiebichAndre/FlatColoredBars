@@ -30,3 +30,8 @@ Like this? Dir Gefällt das?
 Click at the Donatebutton on the Example.html
 
 Klicke auf den Spenden-Button in der Example.html Datei
+
+Das Design ist komplett kostenlos, jedoch würde ich mich über einen Vermerk oder eine Spenden für einen Kaffee freuen.
+Mein Design darf nicht auf anderen Webseiten verkauft werden.
+
+The Design is for free. I like it when you add my name in the Code or at the website. I also like when you spend me a coffe with paypal. It's not allowed to sell my design on other websites.
